@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ricos-pollos-asados-el-r",
+    "nombre": "Ricos pollos asados El Ricky",
+    "kind": "Pollos asados",
+    "hora": "10:00",
+    "precios": "",
+    "productos": "",
+    "whatsapp": "",
+    "blogId": "6781876",
+    "metricoolCuenta": "tacostacosryky@gmail.com",
+    "av": "#3E8E4C,#276031",
+    "agents": [
+      {
+        "emoji": "✍️",
+        "role": "Redactor",
+        "does": "Escribe el copy del día con la voz de la marca, precios y WhatsApp.",
+        "model": "Sonnet"
+      },
+      {
+        "emoji": "🔎",
+        "role": "Revisor",
+        "does": "Verifica que suene a la marca y que los precios y datos sean correctos.",
+        "model": "Haiku"
+      },
+      {
+        "emoji": "📣",
+        "role": "Publicador",
+        "does": "Programa el post en Facebook a la hora indicada. Solo si el revisor aprueba.",
+        "model": "Haiku"
+      }
+    ],
+    "estado": "conectado",
+    "creado": "2026-08-26T00:16:34.428Z",
+    "conectado_en": "2026-08-26T04:26:43.268Z",
+    "clienteListo": true
+  }
+]
