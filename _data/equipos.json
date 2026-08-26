@@ -34,21 +34,5 @@
     "creado": "2026-08-26T00:16:34.428Z",
     "conectado_en": "2026-08-26T04:26:43.268Z",
     "clienteListo": true
-  },
-  {
-    "id": "tmp-borrar",
-    "nombre": "TMP borrar",
-    "kind": "",
-    "hora": "10:00",
-    "precios": "",
-    "productos": "",
-    "whatsapp": "",
-    "blogId": "",
-    "metricoolCuenta": "",
-    "av": "#3E8E4C,#276031",
-    "agents": [],
-    "estado": "en_espera",
-    "creado": "2026-08-26T06:45:28.954Z",
-    "conectado_en": null
   }
 ]
